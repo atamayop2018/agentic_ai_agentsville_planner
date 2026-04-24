@@ -48,6 +48,10 @@ coverage.xml
 *.cover
 *.py.cover
 .hypothesis/
+*.log
+.env
+.venv/
+.ipynb_checkpoints/
 .pytest_cache/
 cover/
 
